@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
 Hi! I’m Tushar Joshi, *a soon to be* a chemical engineer, and a person who is passionate about new technology and entrepreneurship. With the hunger to learn, get involved and ‘hustle’, I often involve myself with opportunities that differ from my peers. I am inspired by challenging the norm, and utilizing my analytical skills to solve problems.
