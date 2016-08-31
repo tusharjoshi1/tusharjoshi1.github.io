@@ -4,8 +4,6 @@ title: About me
 subtitle: 
 ---
 
-Hi! I’m Tushar Joshi, *a soon to be* a chemical engineer, and a person who is passionate about new technology and entrepreneurship. With the hunger to learn, get involved and ‘hustle’, I often involve myself with opportunities that differ from my peers. I am inspired by challenging the norm, and utilizing my analytical skills to solve problems.
+In my spare time I love getting active. I enjoy playing volleyball and soccer, whether that be with my department at work or it be organized intramural play. On top of that I consider myself a recreational runner, in 2015 I completed my first half marathon, and since then I have participated in a number of organized races. 
 
-I am always interested in researching new technologies, and how they can be implemented for the everyday consumer. Click the links above to find out more about projects and initiatives I have been apart of. 
-
-
+Other than getting active, I have recently taken up photography! Check out some of my shots Here.
