@@ -10,4 +10,4 @@ This page was created using Jekyll and hosted on a github page.
 
 Let me know what you think!
 
-Authored by: T.Joshi
+
