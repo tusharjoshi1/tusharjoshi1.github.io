@@ -1,0 +1,10 @@
+---
+layout: post
+title: Production of Styrene Monomer
+category: project
+---
+
+This goal of this project was to simulate the production of styrene via methanol alkylation of toluene. The process designed was to achieve a 99 mol% purity of styrene. This was done using separation units including a three-phase separator, and distillation columns. Through the use of a recycle, the overall yield of the process was improved to 89%.
+
+Authored by: T.Joshi, L.Lemire, O.MacLeod
+
