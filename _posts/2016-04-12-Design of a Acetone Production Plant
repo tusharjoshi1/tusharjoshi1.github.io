@@ -4,28 +4,9 @@ title: Design of an Acetone Production Plant
 category: project
 ---
 
-**The goal:**
-Create a simple application to let students calculate their grades. I haven't found
-a website that works well on mobile and allows me to save grades to my classes.
-I really hate having to type them in over and over again. So, I want to build a
-mobile friendly website, where I can save grades to classes and gives me all the
-information I need without any extra.
+The goal of this project was to design and optimize a facility to produce a high production volume (HPV) chemical. To begin, research was done by analyzing European- and Asian-based multinationals as well as North American ones. Upon selection of an economically feasible reaction pathway, a process diagram was created outlining how the plant would be created.
 
-**The technology:**
+Throughout the project attention was also given to control strategies. Further insight was also given into areas such as unit optimization as well as heat integration to optimize the cost of utilities. Through Honeywell's UniSim simulation software, our group was able to simulate our entire process to obtain accurate data for flow streams.
 
-The application is hosted on a VPS running Ubuntu.
+Finally, a full economic analysis was completed on the process. The capital and cost of operation was calculated. Furthermore, case studies were also completed to determine the rate of return and present worth. To conclude the economic analysis sensitivity case studies were also completed by altering the feed prices, product prices, and market conditions.
 
-Backend: Node.js
-
-Database: MongoDB*
-
-Frontend: JavaScript/jQuery (and obviously HTML + CSS)
-
-So essentially what this all means is a lot of JavaScript was used in the making
-of this project. In fact I ended up writing NaN lines of code!
-
-**The result:**
-It's working and live on [gradecalc.co](http://www.gradecalc.co). Next step? Listen
-to what the users have to say and very possibly build an iOS and Android app.
-
-[View source code.](https://github.com/filiptodoric/gradecalc)
