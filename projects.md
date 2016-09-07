@@ -3,6 +3,8 @@ layout: page
 title: My Projects
 subtitle: Here's Some Cool Stuff I've Done!
 ---
+Currently Being Updated.
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
