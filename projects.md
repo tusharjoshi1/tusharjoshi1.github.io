@@ -3,15 +3,20 @@ layout: page
 title: My Projects
 subtitle: Here's Some Cool Stuff I've Done!
 ---
-<ul>
+<div class="posts">
   {% for post in site.posts %}
-    <div>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    <hr>
-    </div>
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="button button-primary">Read More</a>
+    </article>
   {% endfor %}
-</ul>
+</div>
 
 <!---
 [markdown](http://en.wikipedia.org/wiki/Markdown)
