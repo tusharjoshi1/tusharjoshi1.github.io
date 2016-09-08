@@ -8,4 +8,6 @@ This experiment outlines basic engineering principles of fluid flow. Air was blo
 
 To do this a ten-point traverse method was used for the collection of pressure differential data via the pitot tube apparatus. Further relationships between U<sub>avg</sub> / U <sub>max</sub> and Reynolds number was compared to the McCabe plot.
 
+Check out the report <a href="https://drive.google.com/file/d/0BxFShUyVe18eUUpJdnF5RWlVTXc/view?usp=sharing">Here</a>
+
 Authored by: A.Guerra, T.Joshi
