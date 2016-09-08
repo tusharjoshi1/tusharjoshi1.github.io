@@ -6,7 +6,7 @@ subtitle: Here's Some Stuff I've Been A Part of
 
 Currently Being Updated.
 
-<div class="posts">
+<div class="postsi">
   {% for post in site.posts %}
     <article class="post">
 
