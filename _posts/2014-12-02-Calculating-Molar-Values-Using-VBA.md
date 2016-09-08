@@ -8,6 +8,8 @@ The purpose of this project is to analyze and evaluate the design procedure for 
 
 The solution to determine the exit molar values in a methane reforming process deals with five equations, two of which are non-linear. A system of non-linear equations cannot be solved through direct elimination and substitution. Hence, Newton-Raphson for non-linear systems of equations is chosen as the method for solving this problem.
 
+Check out the report <a href="https://drive.google.com/file/d/0BxFShUyVe18edkRXQzNmVmRKY1E/view?usp=sharing">Here</a>.
+
 
 Authored by: A.Guerra, R.Borbaruah, T.Joshi, L.Lemire
 
