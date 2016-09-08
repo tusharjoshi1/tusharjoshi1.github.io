@@ -7,7 +7,7 @@ subtitle: Here's Some Stuff I've Been A Part of
 Currently Being Updated.
 
 <div class="postsi">
-  {% for post in site.postsi %}
+  {% for post in site.posts %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
