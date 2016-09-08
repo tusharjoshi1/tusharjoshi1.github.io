@@ -3,7 +3,5 @@ layout: page
 title: Contact Info
 subtitle: 
 ---
-Currently Being Updated.
-
-tushar26j@gmail.com
+Contact me using any of the mediums below!I'm always interested in learning about new things and meeting new people! 
 
