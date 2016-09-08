@@ -10,7 +10,7 @@ Throughout the project attention was also given to control strategies. Further i
 
 Finally, a full economic analysis was completed on the process. The capital and cost of operation was calculated. Furthermore, case studies were also completed to determine the rate of return and present worth. To conclude the economic analysis sensitivity case studies were also completed by altering the feed prices, product prices, and market conditions.
 
-Check out the report highlighting the background of the process 
+Check out the report highlighting the background of the process <a href="https://drive.google.com/file/d/0BxFShUyVe18eY09VcEl5d1c4LW8/view?usp=sharing">Here</a>, and a report highlighting the economics <a href="https://drive.google.com/file/d/0BxFShUyVe18ecGh6YUFQcS02a0E/view?usp=sharing">Here</a>.
 
 Authored by: A.Guerra, T.Joshi, L.Lemire, O.MacLeod
 
