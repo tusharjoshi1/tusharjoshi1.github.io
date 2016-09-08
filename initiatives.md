@@ -9,7 +9,7 @@ Currently Being Updated.
 <ul>
   {% for post in site.postsi %}
     <div>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ posti.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
     <hr>
     </div>
