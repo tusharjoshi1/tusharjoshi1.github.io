@@ -25,7 +25,7 @@ description: I Like to Solve Problems.
 navbar-links:
   About Me: "aboutme"
   Projects: "projects"
-  #Initiatives: "initiatives"
+  Initiatives: "initiatives"
   Contact me: "contactme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
