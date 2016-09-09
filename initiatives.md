@@ -5,7 +5,7 @@ subtitle: Here's Some Stuff I've Been A Part of
 ---
 Currently Being Updated.
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.postsi %}
     <div>
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
