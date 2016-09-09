@@ -6,7 +6,7 @@ subtitle: Here's Some Stuff I've Been A Part of
 
 Currently Being Updated.
 <ul>
-  {% for post in site.postsi %}
+  {% for post in site.categories.initiatives %}
     <div>
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
