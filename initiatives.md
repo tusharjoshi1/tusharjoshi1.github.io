@@ -6,7 +6,7 @@ subtitle: Here's Some Stuff I've Been A Part of
 <html>
 
 <head>
-<title>HTML Reference</title>
+<subtitle>HTML Reference</subtitle>
 </head>
 
 <body>
