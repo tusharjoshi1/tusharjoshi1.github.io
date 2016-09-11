@@ -8,3 +8,4 @@ In my spare time I love getting active. I enjoy playing volleyball and soccer, w
 
 Other than getting active, I have recently taken up photography! Check out some of my shots <a href="https://drive.google.com/folderview?id=0BxFShUyVe18eTFlQMUswcnFOalE&usp=sharing">Here</a>.
 
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Atushar26%3Aplaylist%3A5V83DqcuaD6ng7cHHFgENC" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
