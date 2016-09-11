@@ -4,8 +4,6 @@ title: Initiatives
 subtitle: Here's Some Stuff I've Been A Part of
 ---
 
-Currently Being Updated.
-
 <!-- {% assign posts = site.posts | where: "category", "initiative" %}-->
  <ul>
   {% for post in posts %}
