@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Initiatives
-subtitle: Here's Some Stuff I've Been A Part of
+subtitle: Here's Some Stuff I've Been A Part Of
 ---
 
 <!-- {% assign posts = site.posts | where: "category", "initiative" %}-->
