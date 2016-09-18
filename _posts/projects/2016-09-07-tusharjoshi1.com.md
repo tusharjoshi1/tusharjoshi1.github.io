@@ -4,12 +4,12 @@ title: tusharjoshi1.com
 category: project
 ---
 
-The goal of this project was to create a simple website where people can get to know me. I wanted to show my ongoing projects as well as inititives I've been a part of.
+<p align="justify">The goal of this project was to create a simple website where people can get to know me. I wanted to show my ongoing projects as well as inititives I've been a part of.</p>
 
-This page was created using Jekyll and hosted on a github page.
+<p align="justify">This page was created using Jekyll and hosted on a github page.</p>
 
-Let me know what you think!
+<p align="justify">Let me know what you think!</p>
 
-Authored by: T.Joshi
+<p align="justify">Authored by: T.Joshi</p>
 
 
