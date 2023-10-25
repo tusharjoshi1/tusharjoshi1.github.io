@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tusharjoshi1.com
+title: tusharjoshi.ca
 category: project
 ---
 
